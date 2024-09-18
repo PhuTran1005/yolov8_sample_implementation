@@ -1,4 +1,4 @@
-YOLOv8 sample implementation
+# YOLOv8 sample implementation
 
 ### Installation
 
