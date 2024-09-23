@@ -1,0 +1,14 @@
+# Custom dataset
+
+path: /content/gdrive/MyDrive/KAIST_Lectures/CS632_Embedded_Operating_System/YOLOv8/dataset  # dataset root dir
+train: /content/gdrive/MyDrive/KAIST_Lectures/CS632_Embedded_Operating_System/YOLOv8/dataset/train/images  # train images (relative to 'path')
+val: /content/gdrive/MyDrive/KAIST_Lectures/CS632_Embedded_Operating_System/YOLOv8/dataset/val/images  # val images (relative to 'path')
+test: /content/gdrive/MyDrive/KAIST_Lectures/CS632_Embedded_Operating_System/YOLOv8/dataset/test/images  # test images (relative to 'path')
+
+# Classes
+names:
+  0: Car
+  1: Motorcycle
+  2: Truck
+  3: Bus
+  4: Bicycle
